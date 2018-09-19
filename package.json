@@ -1,0 +1,21 @@
+{
+  "name": "learn-redis",
+  "version": "1.0.0",
+  "description": "node redis example program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "hapi",
+    "redis"
+  ],
+  "author": "fjgl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "hapi": "^17.5.4",
+    "redis": "^2.8.0"
+  }
+}
